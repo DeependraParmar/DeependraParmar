@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Data Structures and Algorithms.](https://www.github.com/DeependraParmar/Data-Structures-and-Algorithms)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript and Android Development**
 
 - 👨‍💻 All of my projects are available at [github.com/DeependraParmar](github.com/DeependraParmar)
 
