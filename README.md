@@ -24,7 +24,7 @@
 <a href="https://twitter.com/Deepend32668552?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Deependra Parmar" height="30" width="40" /></a>
 <a href="https://codepen.io/dparmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dparmar" height="30" width="40" /></a>
 <a href="https://twitter.com/deepend32668552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepend32668552" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deependra-parmar-299075190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deependra-parmar-299075190" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deependraparmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deependra-parmar-299075190" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/deependra-parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deependra-parmar" height="30" width="40" /></a>
 <a href="https://instagram.com/_deependra.parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deependra.parmar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCGTBYsE-7sPNglLPeCSmZLA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="informatics practices hindi me" height="30" width="40" /></a>
@@ -39,4 +39,4 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeependraParmar&hide_border=true)](https://github.com/DeependraParmar)
 [![Deependra's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeependraParmar)](https://github.com/DeependraParmar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeependraParmar&layout=compact)](https://github.com/DeependraParmar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeependraParmar)](https://github.com/DeependraParmar)
