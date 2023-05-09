@@ -38,5 +38,3 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeependraParmar&hide_border=true)](https://github.com/DeependraParmar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeependraParmar&layout=compact)](https://github.com/DeependraParmar)
-[![Deependra's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeependraParmar&show_icons=true)](https://github.com/DeependraParmar)
