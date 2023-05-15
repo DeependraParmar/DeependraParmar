@@ -1,18 +1,18 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />, I'm Deependra Parmar</h1>
 
 <h3 align="center">A passionate Full Stack Web Developer from India🌈🔥🔥⚡.</h3>
-<p align="center"> <a href="https://learnlogics.github.io" target="_blank" rel="noreferrer">Website here🔥</a></p>
+<p align="center"> <a href="https://learnlogics.github.io" target="_blank" rel="noreferrer">Visit Here🔥</a></p>
 
 
 - 🔭 I’m currently working on [Data Structures and Algorithms.](https://www.github.com/DeependraParmar/Data-Structures-and-Algorithms)
 
-- 🌱 I’m currently learning **JavaScript and Android Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [github.com/DeependraParmar](github.com/DeependraParmar)
 
-- 📝 I regularly write articles on [github.com/DeependraParmar](github.com/DeependraParmar)
+- 📝 I regularly write articles on [linkedin.com/DeependraParmar](https://www.linkedin.com/in/deependraparmar)
 
-- 💬 Ask me about **Full Stack Web Development, C++, Java, Python and MySQL**
+- 💬 Ask me about **Full Stack Web Development, C++, Java and MySQL**
 
 - 📫 How to reach me **deependraparmar1@gmail.com**
 
