@@ -43,7 +43,7 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeependraParmar&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
 <br>
 
-<p align="left">🏆GitHub Trophies</p>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=DeependraParmar&theme=monokai&width=90&no-frame=false&no-bg=true&margin-w=8"></p>
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=DeependraParmar&title=MultiLanguage,Commits,Repositories,PullRequests,Start&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 
