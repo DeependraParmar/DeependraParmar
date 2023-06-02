@@ -40,8 +40,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeependraParmar&theme=monokai&date_format=j%20M%5B%20Y%5D&card_width=600)](https://github.com/DeependraParmar)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeependraParmar&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-<br>
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=DeependraParmar&title=MultiLanguage,Commits,Repositories,PullRequests,Start&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
