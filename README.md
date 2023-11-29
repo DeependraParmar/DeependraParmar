@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [github.com/DeependraParmar](github.com/DeependraParmar)
+- 👨‍💻 All of my projects are available at [deependraparmar.in](deependraparmar.vercel.app/)
 
 - 📝 I regularly write articles on [linkedin.com/DeependraParmar](https://www.linkedin.com/in/deependraparmar)
 
