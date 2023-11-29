@@ -38,7 +38,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeependraParmar&theme=monokai&date_format=j%20M%5B%20Y%5D&card_width=600)](https://github.com/DeependraParmar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeependraParmar&theme=github&date_format=j%20M%5B%20Y%5D&card_width=600)](https://github.com/DeependraParmar)
 
 
 ## 🏆 GitHub Trophies:
