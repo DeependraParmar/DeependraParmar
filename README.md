@@ -42,6 +42,6 @@
 
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=DeependraParmar&title=MultiLanguage,Commits,Repositories,PullRequests,Start&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DeependraParmar&title=MultiLanguage,Commits,Repositories,PullRequests,Start&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
 
 
