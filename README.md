@@ -45,7 +45,7 @@
 
 
 <h2 align="left">Github Statistics💹🤵: </h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deependraparmar&show_icons=true&theme=nightowl&locale=en" alt="deependraparmar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deependraparmar&rank_icon=github&show_icons=true&theme=nightowl&locale=en" alt="deependraparmar" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeependraParmar&theme=nightowl&date_format=j%20M%5B%20Y%5D&card_width=600)](https://github.com/DeependraParmar)
 
