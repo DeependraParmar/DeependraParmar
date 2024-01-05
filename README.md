@@ -47,8 +47,7 @@
 <h2 align="left">Github Statistics💹🤵: </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deependraparmar&show_icons=true&theme=nightowl&locale=en" alt="deependraparmar" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeependraParmar&theme=nightowl&date_format=j%20M%5B%20Y%5D&card_width=600)](https://github.com/DeependraParmar)<br><br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeependraParmar&theme=nightowl)](https://github.com/DeependraParmar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeependraParmar&theme=nightowl&date_format=j%20M%5B%20Y%5D&card_width=600)](https://github.com/DeependraParmar)
 
 <h2 align="left">Languages & Tools🚗🎉: </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deependraparmar&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="deependraparmar" /></p>
