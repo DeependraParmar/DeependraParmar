@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deependra Parmar😎✨</h1>
-<h3 align="center">A passionate Full Stack Developer from India✨🔥</h3>
+<h3 align="center">A Full Stack Developer & Educator from India✨🔥</h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20views&color=blue&style=flat" alt="deependraparmar" /> </p>
@@ -45,12 +45,12 @@
 
 
 <h2 align="left">Github Statistics💹🤵: </h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deependraparmar&rank_icon=github&show_icons=true&theme=nightowl&locale=en" alt="deependraparmar" /></p>
+<p><a href="https://github.com/DeependraParmar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deependraparmar&rank_icon=github&show_icons=true&theme=nightowl&locale=en" alt="deependraparmar" /></a></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeependraParmar&theme=nightowl&date_format=j%20M%5B%20Y%5D&card_width=600)](https://github.com/DeependraParmar)
 
 <h2 align="left">Languages & Tools🚗🎉: </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deependraparmar&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="deependraparmar" /></p>
+<p><a href="https://github.com/DeependraParmar"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deependraparmar&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="deependraparmar" /></a></p>
 
 
 
