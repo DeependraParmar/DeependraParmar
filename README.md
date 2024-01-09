@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer & Educator from India✨🔥</h3>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20views&color=blue&style=flat" alt="deependraparmar" /> </p>
+<p align="right"><a href="https://github.com/DeependraParmar"><img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20views&color=blue&style=flat" alt="deependraparmar" /> </a></p>
 
 
 - 🔭 I’m currently working on [Coursify](https://www.github.com/DeependraParmar/Coursify-Backend.git)
