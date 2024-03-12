@@ -51,7 +51,7 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com/user=DeependraParmar&theme=nightowl&date_format=j%20M%5B%20Y%5D&card_width=600)](https://github.com/DeependraParmar)-->
 
 <h2 align="left">Languages & Tools🚗🎉: </h2>
-<p><a href="https://github.com/DeependraParmar"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deependraparmar&theme=nightowl&show_icons=true&locale=en&layout=compact&card_width=350&hide=jupyternotebook" alt="deependraparmar" /></a></p>
+<p><a href="https://github.com/DeependraParmar"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deependraparmar&theme=nightowl&show_icons=true&locale=en&layout=compact&card_width=350&hide=jupyter%20notebook" alt="deependraparmar" /></a></p>
 
 
 
