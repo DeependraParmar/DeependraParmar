@@ -1,3 +1,7 @@
+<p align="center">
+ <img width="1000" src="./github-snake.svg" alt="snake"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Deependra Parmar😎✨</h1>
 <h3 align="center">A Full Stack Developer & Educator from India✨🔥</h3>
 
