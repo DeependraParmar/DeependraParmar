@@ -9,11 +9,11 @@
 <p align="right"><a href="https://github.com/DeependraParmar"><img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20views&color=blue&style=flat" alt="deependraparmar" /> </a></p>
 
 
-- 🔭 I’m currently working on [Coursify](https://www.github.com/DeependraParmar/Coursify-Backend.git)
+- 🔭 I’m currently working on [Taskilio](https://www.github.com/DeependraParmar/Taskilio.git)
 
 - 🌱 I’m currently learning **MERN Stack, Machine Learning & DSA**
 
-- 👯 I’m looking to collaborate on [Coursify-UI](https://www.github.com/DeependraParmar/Coursify-UI)
+- 👯 I’m looking to collaborate on [Taskilio](https://www.github.com/DeependraParmar/Taskilio.git)
 
 - 👨‍💻 All of my projects are available at [https://deependraparmar.vercel.app](https://deependraparmar.vercel.app)
 
