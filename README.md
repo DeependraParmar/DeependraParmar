@@ -1,28 +1,12 @@
-<p align="center">
- <img width="1050" height="150" src="./github-snake.svg" alt="snake"/>
-</p>
-
 <p align="left">
   <img width="1050" src="./home.gif" height="200" />
 </p>
 
+<p align="center">
+ <img width="1050" height="200" src="./github-snake.svg" alt="snake"/>
+</p>
 
 <p align="right"><a href="https://github.com/DeependraParmar"><img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20views&color=blue&style=flat" alt="deependraparmar" /> </a></p>
-
-
-- 🔭 I’m currently working on [Taskilio](https://www.github.com/DeependraParmar/Taskilio.git)
-
-- 🌱 I’m currently learning **MERN Stack, Machine Learning & DSA**
-
-- 👯 I’m looking to collaborate on [Taskilio](https://www.github.com/DeependraParmar/Taskilio.git)
-
-- 👨‍💻 All of my projects are available at [https://deependraparmar.vercel.app](https://deependraparmar.vercel.app)
-
-- 💬 Ask me about **DSA & Development**
-
-- 📫 How to reach me **deependraparmar1@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/deependraparmar](https://www.linkedin.com/in/deependraparmar)
 
 <br>
 <h2 align="left">Connect with me 📞:</h2>
