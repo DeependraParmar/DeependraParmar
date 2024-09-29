@@ -1,14 +1,9 @@
 <p align="left">
-  <img width="1050" src="./home.gif" height="200" />
-</p>
-
-<p align="center">
- <img width="1050" height="200" src="./github-snake.svg" alt="snake"/>
+  <img src="./home.gif" />
 </p>
 
 <p align="right"><a href="https://github.com/DeependraParmar"><img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20views&color=blue&style=flat" alt="deependraparmar" /> </a></p>
 
-<br>
 <h2 align="left">Connect with me 📞:</h2>
 <p align="left">
 <kbd><a href="https://twitter.com/_deependra05" target="_blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-twitter-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-pack-logos-3915176.png?f=webp" alt="_deependra05" height="75" width="75" /></a></kbd>
