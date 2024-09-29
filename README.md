@@ -24,7 +24,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/deependraparmar](https://www.linkedin.com/in/deependraparmar)
 
 <br>
-<h2 align="left">Connect with me📞🤙☎:</h2>
+<h2 align="left">Connect with me 📞:</h2>
 <p align="left">
 <kbd><a href="https://twitter.com/_deependra05" target="blank"><img align="center" src="assets/social/twitter.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
 <kbd><a href="https://linkedin.com/in/deependraparmar" target="blank"><img align="center" src="assets/social/linkedin.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
@@ -32,6 +32,14 @@
 <kbd><a href="https://deependraparmar.vercel.app/" target="blank"><img align="center" src="assets/social/website.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
 <kbd><a href="https://learnlogics.page.link/RtQw" target="blank"><img align="center" src="assets/social/youtube.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
 <kbd><a href="https://leetcode.com/u/deependraparmar" target="blank"><img align="center" src="assets/social/leetcode.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
+</p><br>
+
+<h2 align="left">My Coding Profiles:</h2>
+<p align="left">
+<kbd><a href="https://leetcode.com/u/deependraparmar" target="blank"><img align="center" src="https://github.com/DeependraParmar/Deependra-Parmar-Portfolio/blob/master/src/assets/leetcode.png" alt="_deependra05" height="75" width="75" /></a></kbd>
+<kbd><a href="https://geeksforgeeks.org/user/deependraparmar1" target="blank"><img align="center" src="https://github.com/DeependraParmar/Deependra-Parmar-Portfolio/blob/master/src/assets/gfg.png" alt="_deependra05" height="75" width="75" /></a></kbd>
+<kbd><a href="https://naukri.com/code360/profile/deependraparmar" target="blank"><img align="center" src="https://github.com/DeependraParmar/Deependra-Parmar-Portfolio/blob/master/src/assets/cn.png" alt="_deependra05" height="75" width="75" /></a></kbd>
+<kbd><a href="https://hackerrank.com/profile/deependraparmar1" target="blank"><img align="center" src="https://github.com/DeependraParmar/Deependra-Parmar-Portfolio/blob/master/src/assets/hackerrank.png" alt="_deependra05" height="75" width="75" /></a></kbd>
 </p><br>
 
 <h2 align="left">Languages I Code In 🔥:</h2>
