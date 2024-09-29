@@ -44,23 +44,23 @@
 
 <h2 align="left">Languages I Code In 🔥:</h2>
 <p align="left">
-<kbd><img src="assets/languages/cpp.gif" width="75" height="75" /></kbd>
-<kbd><img src="assets/languages/java.gif" width="75" height="75" /></kbd>
-<kbd><img src="assets/languages/js.gif" width="75" height="75" /></kbd>
-<kbd><img src="assets/languages/ts.gif" width="75" height="75" /></kbd>
-<kbd><img src="assets/languages/sql.gif" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-s-3d-icon-download-in-png-blend-fbx-gltf-file-formats--c-plus-logo-programming-language-coding-lang-pack-logos-icons-7578015.png?f=webp" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-3d-icon-download-in-png-blend-fbx-gltf-file-formats--object-oriented-jvm-logo-applications-coding-lang-pack-logos-icons-7578017.png?f=webp" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-vue-angular-coding-lang-pack-logos-icons-7577991.png?f=webp" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png?f=webp" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-sql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-data-management-relational-logo-analysis-coding-lang-pack-logos-icons-7578022.png?f=webp" width="75" height="75" /></kbd>
 
 </p> <br>
 
 <h2 align="left">My Development Skills 🔥:</h2>
 <p align="left">
-<kbd><img src="assets/dev/html.gif" width="75" height="75" /></kbd>
-<kbd><img src="assets/dev/css.gif" width="75" height="75" /></kbd>
-<kbd><img src="assets/dev/tailwindcss.gif" width="75" height="75" /></kbd>
-<kbd><img src="assets/dev/react.gif" width="75" height="75" /></kbd>
-<kbd><img src="assets/dev/nodejs.gif" width="75" height="75" /></kbd>
-<kbd><img src="assets/dev/mongodb.gif" width="75" height="75" /></kbd>
-<kbd><img src="assets/dev/git.gif" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html5-logo-dom-markup-language-frontend-coding-lang-pack-logos-icons-7578018.png?f=webp" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css3-html5-cascading-style-sheets-coding-lang-pack-logos-icons-7578024.png?f=webp" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png?f=webp" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-runtime-backend-node-js-logo-coding-lang-pack-logos-icons-7578002.png?f=webp" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/preview/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png?f=webp" width="75" height="75" /></kbd>
+<kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-git-3d-icon-download-in-png-blend-fbx-gltf-file-formats--github-logo-version-control-system-vcs-coding-lang-pack-logos-icons-7578021.png?f=webp" width="75" height="75" /></kbd>
 
 </p> <br>
 
