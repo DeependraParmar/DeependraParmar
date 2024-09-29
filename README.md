@@ -26,33 +26,33 @@
 <br>
 <h2 align="left">Connect with me📞🤙☎:</h2>
 <p align="left">
-<a href="https://twitter.com/_deependra05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_deependra05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deependraparmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deependraparmar" height="30" width="40" /></a>
-<a href="https://instagram.com/_deependra.parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deependra.parmar" height="30" width="40" /></a>
-<a href="https://learnlogics.page.link/RtQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnlogics" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deependraparmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deependraparmar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/deependraparmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deependraparmar" height="30" width="40" /></a>
+<kbd><a href="https://twitter.com/_deependra05" target="blank"><img align="center" src="assets/social/twitter.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
+<kbd><a href="https://linkedin.com/in/deependraparmar" target="blank"><img align="center" src="assets/social/linkedin.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
+<kbd><a href="https://instagram.com/_deependra.parmar" target="blank"><img align="center" src="assets/social/instagram.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
+<kbd><a href="https://deependraparmar.vercel.app/" target="blank"><img align="center" src="assets/social/website.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
+<kbd><a href="https://learnlogics.page.link/RtQw" target="blank"><img align="center" src="assets/social/youtube.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
+<kbd><a href="https://leetcode.com/u/deependraparmar" target="blank"><img align="center" src="assets/social/leetcode.gif" alt="_deependra05" height="75" width="75" /></a></kbd>
 </p><br>
 
 <h2 align="left">Languages I Code In 🔥:</h2>
 <p align="left">
-<kbd><img src="assets/languages/cpp.gif" width="100" height="100" /></kbd>
-<kbd><img src="assets/languages/java.gif" width="100" height="100" /></kbd>
-<kbd><img src="assets/languages/js.gif" width="100" height="100" /></kbd>
-<kbd><img src="assets/languages/ts.gif" width="100" height="100" /></kbd>
-<kbd><img src="assets/languages/sql.gif" width="100" height="100" /></kbd>
+<kbd><img src="assets/languages/cpp.gif" width="75" height="75" /></kbd>
+<kbd><img src="assets/languages/java.gif" width="75" height="75" /></kbd>
+<kbd><img src="assets/languages/js.gif" width="75" height="75" /></kbd>
+<kbd><img src="assets/languages/ts.gif" width="75" height="75" /></kbd>
+<kbd><img src="assets/languages/sql.gif" width="75" height="75" /></kbd>
 
 </p> <br>
 
 <h2 align="left">My Development Skills 🔥:</h2>
 <p align="left">
-<kbd><img src="assets/dev/html.gif" width="100" height="100" /></kbd>
-<kbd><img src="assets/dev/css.gif" width="100" height="100" /></kbd>
-<kbd><img src="assets/dev/tailwindcss.gif" width="100" height="100" /></kbd>
-<kbd><img src="assets/dev/react.gif" width="100" height="100" /></kbd>
-<kbd><img src="assets/dev/nodejs.gif" width="100" height="100" /></kbd>
-<kbd><img src="assets/dev/mongodb.gif" width="100" height="100" /></kbd>
-<kbd><img src="assets/dev/git.gif" width="100" height="100" /></kbd>
+<kbd><img src="assets/dev/html.gif" width="75" height="75" /></kbd>
+<kbd><img src="assets/dev/css.gif" width="75" height="75" /></kbd>
+<kbd><img src="assets/dev/tailwindcss.gif" width="75" height="75" /></kbd>
+<kbd><img src="assets/dev/react.gif" width="75" height="75" /></kbd>
+<kbd><img src="assets/dev/nodejs.gif" width="75" height="75" /></kbd>
+<kbd><img src="assets/dev/mongodb.gif" width="75" height="75" /></kbd>
+<kbd><img src="assets/dev/git.gif" width="75" height="75" /></kbd>
 
 </p> <br>
 
