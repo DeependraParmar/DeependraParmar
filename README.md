@@ -2,8 +2,9 @@
  <img width="1000" src="./github-snake.svg" alt="snake"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Deependra Parmar😎✨</h1>
-<h3 align="center">A Full Stack Developer & Educator from India✨🔥</h3>
+<p align="left">
+  <img width="1000" src="./home.gif" height="200" />
+</p>
 
 
 <p align="right"><a href="https://github.com/DeependraParmar"><img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20views&color=blue&style=flat" alt="deependraparmar" /> </a></p>
