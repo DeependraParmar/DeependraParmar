@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1000" src="./github-snake.svg" alt="snake"/>
+ <img width="1050" height="200" src="./github-snake.svg" alt="snake"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Deependra Parmar😎✨</h1>
