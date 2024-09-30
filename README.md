@@ -2,12 +2,13 @@
   <img src="./home.gif" />
 </p>
 
+<p align="center"><a href="https://github.com/DeependraParmar"><img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20views&color=blue&style=flat" alt="deependraparmar" /> </a></p>
+
 <p align="left">
 Hey everyone 👋, I am Deependra Parmar, a final year B.Tech. student persuing Computer Science & Information Technology (2021-25) from Acropolis Institute of Technology & Research, Indore. </br>
 I am a very curious person. I always have a keen curiosity of how the things, technologies and tools around which the life moves works. This quality of mine has always benefitted me and helped me to learn things better, easier and faster.
 </p>
 
-<p align="right"><a href="https://github.com/DeependraParmar"><img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20views&color=blue&style=flat" alt="deependraparmar" /> </a></p>
 
 <h2 align="left">Connect with me 📞:</h2>
 <p align="left">
