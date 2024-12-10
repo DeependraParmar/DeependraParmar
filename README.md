@@ -2,7 +2,7 @@
   <img src="./home.gif" />
 </p>
 
-<p align="right"><a href="https://github.com/DeependraParmar"><img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20Impressions&color=red&style=for-the-badge&abbreviated=true" alt="deependraparmar" /> </a></p>
+<p align="right"><a href="https://github.com/DeependraParmar"><img src="https://komarev.com/ghpvc/?username=deependraparmar&label=Profile%20Impressions&color=red&style=for-the-badge" alt="deependraparmar" /> </a></p>
 
 <p align="left">
 Hey everyone 👋, I am Deependra Parmar, a final year B.Tech. student persuing Computer Science & Information Technology (2021-25) from Acropolis Institute of Technology & Research, Indore. </br>
