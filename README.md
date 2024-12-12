@@ -6,7 +6,7 @@
 
 <p align="left">
 Hey everyone 👋, I am Deependra Parmar, a final year B.Tech. student persuing Computer Science & Information Technology (2021-25) from Acropolis Institute of Technology & Research, Indore. </br>
-I am a very curious person. I always have a keen curiosity of how the things, technologies and tools around which the life moves works. This quality of mine has always benefitted me and helped me to learn things better, easier and faster.
+I am an inquisitive person. I have always had a keen curiosity about how the things, technologies, and tools around which life moves work. This quality of mine has always benefitted me and helped me learn things better, easier, and faster.
 </p>
 
 
